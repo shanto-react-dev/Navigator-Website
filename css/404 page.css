@@ -1,0 +1,39 @@
+body {
+    font-family: "Titillium Web", sans-serif;
+}
+.page-404 {
+	height: 100vh;
+}
+.page-404 h1 {
+	font-size: 200px;
+    font-weight: 600;
+}
+.page-404 h2 {
+    font-weight: 600;
+}
+.page-404 p {
+    color: #9a9a9a;
+    font-size: 15px;
+}
+.mt-20 {
+	margin-top: 20px;
+}
+.btn-main, .btn-main-sm {
+	background-color: #21D6BF;
+	background-image: linear-gradient(100deg, #f9643d, #fe2a77);
+	color: #fff;
+	display: inline-block;
+	font-size: 14px;
+	letter-spacing: 1px;
+	padding: 10px 40px;
+	text-transform: uppercase;
+	border: 1px solid transparent;
+	border-radius: 2px;
+	cursor: pointer;
+}
+.btn:hover {
+    color: white;
+}
+.btn:focus {
+    box-shadow: none;
+}
